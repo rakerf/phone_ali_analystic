@@ -1,0 +1,10 @@
+com\phone\ali\common\Constants$EventEnum.class
+com\phone\ali\common\DateEnum.class
+com\phone\ali\etl\mr\EtlToHdfsRunner.class
+com\phone\ali\etl\mr\LogWritable.class
+com\phone\ali\common\GlobalConstants.class
+com\phone\ali\etl\util\LogUtil.class
+com\phone\ali\etl\util\TimeUtil.class
+com\phone\ali\etl\mr\EtlToHdfsMapper$1.class
+com\phone\ali\common\Constants.class
+com\phone\ali\etl\mr\EtlToHdfsMapper.class
